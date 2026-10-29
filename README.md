@@ -1,6 +1,6 @@
 # Sorry
 
-A fun and interactive web application built with HTML to help you say sorry to someone special and ask for their forgiveness. 
+A fun and interactive web application built with HTML to help you say sorry to someone special and ask for their forgiveness. It was made just for testing out buttons.
 
 ## Live Demo
 **[Click here to view the website](https://bhavya-vyas-webdev.github.io/Sorry/)**
